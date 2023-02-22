@@ -111,4 +111,25 @@
         <tag>随笔</tag>
       </tags>
   </entry>
+  <entry>
+    <title>Hexo</title>
+    <url>/2023/02/22/Hexo/</url>
+    <content><![CDATA[<p>记录</p>
+<span id="more"></span>
+
+<p>本地启动</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo s</span><br></pre></td></tr></table></figure>
+
+<p>新写一篇文章</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo new &quot;将进酒&quot;</span><br></pre></td></tr></table></figure>
+
+<p>生成页面</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo g</span><br></pre></td></tr></table></figure>
+
+<p>部署发布</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo d</span><br></pre></td></tr></table></figure>]]></content>
+      <tags>
+        <tag>博客</tag>
+      </tags>
+  </entry>
 </search>
